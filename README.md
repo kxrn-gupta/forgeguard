@@ -80,7 +80,7 @@ flowchart TD
 ### 1. Installation
 Clone the repository and run ForgeGuard directly using Python 3.11+:
 ```bash
-git clone https://github.com/karan5028ji/forgeguard.git
+git clone https://github.com/kxrn-gupta/forgeguard.git
 cd forgeguard
 ```
 *Zero pip installs required for core engine.*
